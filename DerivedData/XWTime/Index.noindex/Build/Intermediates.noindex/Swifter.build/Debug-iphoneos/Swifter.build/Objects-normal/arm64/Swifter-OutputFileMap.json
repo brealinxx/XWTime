@@ -1,0 +1,69 @@
+{
+  "" : {
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Swifter.build/Debug-iphoneos/Swifter.build/Objects-normal/arm64/Swifter-master.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Swifter.build/Debug-iphoneos/Swifter.build/Objects-normal/arm64/Swifter-master.dia",
+    "emit-module-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Swifter.build/Debug-iphoneos/Swifter.build/Objects-normal/arm64/Swifter-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Swifter.build/Debug-iphoneos/Swifter.build/Objects-normal/arm64/Swifter-master-emit-module.dia",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Swifter.build/Debug-iphoneos/Swifter.build/Objects-normal/arm64/Swifter-master.swiftdeps"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/DemoServer.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/Errno.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/Files.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/HttpParser.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/HttpRequest.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/HttpResponse.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/HttpRouter.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/HttpServer.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/HttpServerIO.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/MimeTypes.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/Process.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/Scopes.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/Socket.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/Socket+File.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/Socket+Server.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/String+BASE64.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/String+File.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/String+Misc.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/String+SHA1.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/XCode/Sources/WebSockets.swift" : {
+
+  }
+}

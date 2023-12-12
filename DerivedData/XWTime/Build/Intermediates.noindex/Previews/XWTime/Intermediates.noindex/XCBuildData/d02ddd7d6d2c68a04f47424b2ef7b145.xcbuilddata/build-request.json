@@ -1,0 +1,57 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "d92f8c6942e405a93cfb12c8764d92ff851aecb5e78db2cfc8bd3e5eee32f98a"
+    }
+  ],
+  "containerPath" : "/Users/brealin/DEV/XWTime/XWTime.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Products",
+      "derivedDataPath" : "/Users/brealin/DEV/XWTime/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex",
+          "SYMROOT" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

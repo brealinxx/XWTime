@@ -1,0 +1,12 @@
+{
+  "source": "/Users/brealin/DEV/XWTime/XWTime/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

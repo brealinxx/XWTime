@@ -1,0 +1,40 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "db550e7ebffd7292c1efa26c940da997e5009aa2d0d09160211d6c2ee2d9a1e3"
+build_start_time: [1702364315, 569529000]
+build_end_time: [1702364315, 576867000]
+inputs:
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Collection+OAuthSwift.swift": !dirty [1702361380, 937030538]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Data+OAuthSwift.swift": !dirty [1702361380, 937201040]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Dictionary+OAuthSwift.swift": !dirty [1702361380, 937379041]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/HMAC.swift": !dirty [1702361380, 937453084]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/ASWebAuthenticationURLHandler.swift"
+  : !dirty [1702361380, 937568044]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/ExtensionContextURLHandler.swift"
+  : !dirty [1702361380, 937637503]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthSwiftOpenURLExternally.swift"
+  : !dirty [1702361380, 937704670]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthSwiftURLHandlerProxy.swift": !dirty [1702361380, 937767129]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthWebViewController.swift": !dirty [1702361380, 937837671]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/SFAuthenticationURLHandler.swift"
+  : !dirty [1702361380, 937928922]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/SafariURLHandler.swift": !dirty [1702361380, 938000715]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Int+OAuthSwift.swift": !dirty [1702361380, 938069090]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/NSError+OAuthSwift.swift": !dirty [1702361380, 938147508]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/NotificationCenter+OAuthSwift.swift": !dirty [1702361380, 938225175]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuth1Swift.swift": !dirty [1702361380, 938329343]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuth2Swift.swift": !dirty [1702361380, 938407177]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthLogProtocol.swift": !dirty [1702361380, 938606929]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwift.swift": !dirty [1702361380, 938699555]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftClient.swift": !dirty [1702361380, 938932183]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftCredential.swift": !dirty [1702361380, 939035517]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftError.swift": !dirty [1702361380, 939127851]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftHTTPRequest.swift": !dirty [1702361380, 939225727]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftMultipartData.swift": !dirty [1702361380, 939307186]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftResponse.swift": !dirty [1702361380, 939470938]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftURLHandlerType.swift": !dirty [1702361380, 939566564]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/SHA1.swift": !dirty [1702361380, 939650899]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/String+OAuthSwift.swift": !dirty [1702361380, 939730024]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/UIApplication+OAuthSwift.swift": !dirty [1702361380, 939811067]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/URL+OAuthSwift.swift": !dirty [1702361380, 939878443]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/URLConvertible.swift": !dirty [1702361380, 939946568]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Utils.swift": !dirty [1702361380, 940108570]

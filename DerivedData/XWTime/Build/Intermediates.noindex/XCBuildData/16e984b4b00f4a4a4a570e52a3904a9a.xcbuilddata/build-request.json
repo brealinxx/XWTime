@@ -1,0 +1,109 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "d92f8c6942e405a93cfb12c8764d92ff851aecb5e78db2cfc8bd3e5eee32f98a",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator17.0",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Products",
+          "derivedDataPath" : "/Users/brealin/DEV/XWTime/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "CLANG_COVERAGE_MAPPING" : "YES",
+              "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/ProfileData",
+              "DSTROOT" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex",
+              "SYMROOT" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "30B8F435-2E01-4AA9-BF6D-EA6936A14575",
+              "TARGET_DEVICE_MODEL" : "iPhone16,1",
+              "TARGET_DEVICE_OS_VERSION" : "17.0.1",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/brealin/DEV/XWTime/XWTime.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Products",
+      "derivedDataPath" : "/Users/brealin/DEV/XWTime/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/ProfileData",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "30B8F435-2E01-4AA9-BF6D-EA6936A14575",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.0.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

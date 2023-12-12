@@ -1,0 +1,4 @@
+module Erik {
+header "Erik-Swift.h"
+export *
+}

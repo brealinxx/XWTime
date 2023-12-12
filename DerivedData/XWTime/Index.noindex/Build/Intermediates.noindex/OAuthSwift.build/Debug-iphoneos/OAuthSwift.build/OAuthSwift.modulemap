@@ -1,0 +1,4 @@
+module OAuthSwift {
+header "OAuthSwift-Swift.h"
+export *
+}

@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Swifter.build/Debug-iphoneos/Example.build/Objects-normal/arm64/Example-master.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Swifter.build/Debug-iphoneos/Example.build/Objects-normal/arm64/Example-master.dia",
+    "emit-module-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Swifter.build/Debug-iphoneos/Example.build/Objects-normal/arm64/Example-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Swifter.build/Debug-iphoneos/Example.build/Objects-normal/arm64/Example-master-emit-module.dia",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Swifter.build/Debug-iphoneos/Example.build/Objects-normal/arm64/Example-master.swiftdeps"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/swifter/Example/main.swift" : {
+
+  }
+}

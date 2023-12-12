@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Erik.build/Debug-iphoneos/Erik.build/Objects-normal/arm64/Erik-master.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Erik.build/Debug-iphoneos/Erik.build/Objects-normal/arm64/Erik-master.dia",
+    "emit-module-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Erik.build/Debug-iphoneos/Erik.build/Objects-normal/arm64/Erik-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Erik.build/Debug-iphoneos/Erik.build/Objects-normal/arm64/Erik-master-emit-module.dia",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Erik.build/Debug-iphoneos/Erik.build/Objects-normal/arm64/Erik-master.swiftdeps"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Erik/Sources/Document.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Erik/Sources/Erik.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Erik/Sources/Future/Future.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Erik/Sources/LayoutEngine.swift" : {
+
+  }
+}

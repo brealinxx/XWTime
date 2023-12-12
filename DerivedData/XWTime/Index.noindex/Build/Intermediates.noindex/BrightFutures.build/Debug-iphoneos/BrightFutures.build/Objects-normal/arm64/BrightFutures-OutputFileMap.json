@@ -1,0 +1,60 @@
+{
+  "" : {
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/BrightFutures.build/Debug-iphoneos/BrightFutures.build/Objects-normal/arm64/BrightFutures-master.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/BrightFutures.build/Debug-iphoneos/BrightFutures.build/Objects-normal/arm64/BrightFutures-master.dia",
+    "emit-module-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/BrightFutures.build/Debug-iphoneos/BrightFutures.build/Objects-normal/arm64/BrightFutures-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/BrightFutures.build/Debug-iphoneos/BrightFutures.build/Objects-normal/arm64/BrightFutures-master-emit-module.dia",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/BrightFutures.build/Debug-iphoneos/BrightFutures.build/Objects-normal/arm64/BrightFutures-master.swiftdeps"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Async.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/AsyncType.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/AsyncType+Debug.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/AsyncType+ResultType.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Dispatch+BrightFutures.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Errors.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/ExecutionContext.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Future.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/InvalidationToken.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/MutableAsyncType.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/MutableAsyncType+ResultType.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/NSOperationQueue+BrightFutures.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Promise.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Result+BrightFutures.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/ResultProtocol.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/SequenceType+BrightFutures.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/SwiftConcurrency+BrightFutures.swift" : {
+
+  }
+}

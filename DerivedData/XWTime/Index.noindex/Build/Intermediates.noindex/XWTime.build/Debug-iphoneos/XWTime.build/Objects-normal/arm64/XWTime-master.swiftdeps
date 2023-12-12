@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "71f6348c4cdfe26e88eaeb3e58cab3006e738c59ddb75b56e2f5b675dfcfcabf"
+build_start_time: [1702364509, 61186000]
+build_end_time: [1702364509, 62566000]
+inputs:
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/XWTime.build/Debug-iphoneos/XWTime.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1702350922, 23284722]
+  "/Users/brealin/DEV/XWTime/XWTime/ContentView.swift": !dirty [1702350909, 274666869]
+  "/Users/brealin/DEV/XWTime/XWTime/XBot.swift": !dirty [1702364508, 975376857]
+  "/Users/brealin/DEV/XWTime/XWTime/XWTimeApp.swift": !dirty [1702350909, 271609690]

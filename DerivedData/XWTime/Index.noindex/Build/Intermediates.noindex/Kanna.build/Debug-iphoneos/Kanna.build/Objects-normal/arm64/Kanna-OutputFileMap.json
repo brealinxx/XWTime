@@ -1,0 +1,27 @@
+{
+  "" : {
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Kanna.build/Debug-iphoneos/Kanna.build/Objects-normal/arm64/Kanna-master.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Kanna.build/Debug-iphoneos/Kanna.build/Objects-normal/arm64/Kanna-master.dia",
+    "emit-module-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Kanna.build/Debug-iphoneos/Kanna.build/Objects-normal/arm64/Kanna-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Kanna.build/Debug-iphoneos/Kanna.build/Objects-normal/arm64/Kanna-master-emit-module.dia",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/Kanna.build/Debug-iphoneos/Kanna.build/Objects-normal/arm64/Kanna-master.swiftdeps"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/CSS.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/Deprecated.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/Kanna.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/libxmlHTMLDocument.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/libxmlHTMLNode.swift" : {
+
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/libxmlParserOption.swift" : {
+
+  }
+}

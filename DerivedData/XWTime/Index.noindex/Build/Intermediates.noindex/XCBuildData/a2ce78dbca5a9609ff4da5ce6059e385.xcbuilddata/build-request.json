@@ -1,0 +1,72 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "d92f8c6942e405a93cfb12c8764d92ff851aecb5e78db2cfc8bd3e5eee32f98a"
+    },
+    {
+      "guid" : "d92f8c6942e405a93cfb12c8764d92ff5baf7a5f5ead5aa6ad22aa32ee4ae83e"
+    },
+    {
+      "guid" : "d92f8c6942e405a93cfb12c8764d92ffb213b98148f542885a29a5ecae0efdd9"
+    }
+  ],
+  "containerPath" : "/Users/brealin/DEV/XWTime/XWTime.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/brealin/DEV/XWTime/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Products",
+      "pchPath" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

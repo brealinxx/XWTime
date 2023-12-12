@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Cocoa</string>
+	<string>SwifteriOS</string>
+	<string>FileKit</string>
+	<string>CommonCrypto</string>
+	<string>SafariServices</string>
+	<string>Kanna</string>
+	<string>Swifter</string>
+	<string>libxml2</string>
+	<string>OAuthSwiftOSX</string>
+	<string>ErikOSX</string>
+	<string>SwifterTests</string>
+	<string>OAuthSwift</string>
+	<string>Erik</string>
+	<string>AuthenticationServices</string>
+	<string>CoreData</string>
+	<string>CoreFoundation</string>
+	<string>OAuthSwiftWatchOS</string>
+	<string>Crypto</string>
+	<string>OAuthSwiftTVOS</string>
+	<string>BrightFutures</string>
+	<string>SwifterMac</string>
+	<string>SwiftUI</string>
+	<string>WebKit</string>
+	<string>FoundationNetworking</string>
+	<string>PackageDescription</string>
+	<string>XCTest</string>
+	<string>Dispatch</string>
+	<string>XWTime</string>
+	<string>Foundation</string>
+	<string>WatchKit</string>
+	<string>AppKit</string>
+	<string>UIKit</string>
+	<string>KannaTests</string>
+</array>
+</plist>

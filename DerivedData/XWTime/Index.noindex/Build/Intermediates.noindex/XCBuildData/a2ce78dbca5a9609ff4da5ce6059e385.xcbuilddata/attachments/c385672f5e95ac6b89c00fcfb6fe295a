@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/XWTime.build/Debug-maccatalyst/XWTimeTests.build/Objects-normal/arm64/XWTimeTests-master.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/XWTime.build/Debug-maccatalyst/XWTimeTests.build/Objects-normal/arm64/XWTimeTests-master.dia",
+    "emit-module-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/XWTime.build/Debug-maccatalyst/XWTimeTests.build/Objects-normal/arm64/XWTimeTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/XWTime.build/Debug-maccatalyst/XWTimeTests.build/Objects-normal/arm64/XWTimeTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Index.noindex/Build/Intermediates.noindex/XWTime.build/Debug-maccatalyst/XWTimeTests.build/Objects-normal/arm64/XWTimeTests-master.swiftdeps"
+  },
+  "/Users/brealin/DEV/XWTime/XWTimeTests/XWTimeTests.swift" : {
+
+  }
+}

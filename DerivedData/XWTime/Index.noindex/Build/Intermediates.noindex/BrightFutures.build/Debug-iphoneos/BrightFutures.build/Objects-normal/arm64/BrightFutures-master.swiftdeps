@@ -1,0 +1,30 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "26c129fe5278a5210971b698b72f4ca8cca9b2599f40642cd5e6195b3a5106aa"
+build_start_time: [1702361711, 21162000]
+build_end_time: [1702361711, 22855000]
+inputs:
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Async.swift": !dirty [1702361381, 101886048]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/AsyncType+Debug.swift": !dirty [1702361381, 101971340]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/AsyncType+ResultType.swift"
+  : !dirty [1702361381, 102090133]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/AsyncType.swift": !dirty [1702361381, 102163675]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Dispatch+BrightFutures.swift"
+  : !dirty [1702361381, 102233551]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Errors.swift": !dirty [1702361381, 102437220]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/ExecutionContext.swift": !dirty [1702361381, 102579388]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Future.swift": !dirty [1702361381, 102678681]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/InvalidationToken.swift"
+  : !dirty [1702361381, 102837641]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/MutableAsyncType+ResultType.swift"
+  : !dirty [1702361381, 102945892]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/MutableAsyncType.swift": !dirty [1702361381, 103030268]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/NSOperationQueue+BrightFutures.swift"
+  : !dirty [1702361381, 103104769]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Promise.swift": !dirty [1702361381, 103192186]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/Result+BrightFutures.swift"
+  : !dirty [1702361381, 103275562]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/ResultProtocol.swift": !dirty [1702361381, 103349021]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/SequenceType+BrightFutures.swift"
+  : !dirty [1702361381, 103424814]
+  ? "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/BrightFutures/Sources/BrightFutures/SwiftConcurrency+BrightFutures.swift"
+  : !dirty [1702361381, 103502939]

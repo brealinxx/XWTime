@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>34D76B09-D480-473E-8A65-0810795B33DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>34D76B09-D480-473E-8A65-0810795B33DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>XWTime project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XWTime</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews XWTime</string>
+			<key>timeStartedRecording</key>
+			<real>724046736.31475997</real>
+			<key>timeStoppedRecording</key>
+			<real>724046736.60057402</real>
+			<key>title</key>
+			<string>Build for Previews XWTime</string>
+			<key>uniqueIdentifier</key>
+			<string>34D76B09-D480-473E-8A65-0810795B33DC</string>
+		</dict>
+		<key>EDF84CE3-0CB6-4DA7-B908-ABDBE1D970DD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EDF84CE3-0CB6-4DA7-B908-ABDBE1D970DD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>XWTime project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XWTime</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build XWTime</string>
+			<key>timeStartedRecording</key>
+			<real>724056549.17329097</real>
+			<key>timeStoppedRecording</key>
+			<real>724056551.85614598</real>
+			<key>title</key>
+			<string>Build XWTime</string>
+			<key>uniqueIdentifier</key>
+			<string>EDF84CE3-0CB6-4DA7-B908-ABDBE1D970DD</string>
+		</dict>
+		<key>F5AFBE32-C4D3-4A81-A040-F8341678F2C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5AFBE32-C4D3-4A81-A040-F8341678F2C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>XWTime project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XWTime</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build XWTime</string>
+			<key>timeStartedRecording</key>
+			<real>724056552.43296397</real>
+			<key>timeStoppedRecording</key>
+			<real>724056552.60939205</real>
+			<key>title</key>
+			<string>Build XWTime</string>
+			<key>uniqueIdentifier</key>
+			<string>F5AFBE32-C4D3-4A81-A040-F8341678F2C4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

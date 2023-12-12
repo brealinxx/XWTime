@@ -1,0 +1,4 @@
+module Kanna {
+header "Kanna-Swift.h"
+export *
+}

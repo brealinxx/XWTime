@@ -1,0 +1,4 @@
+module BrightFutures {
+header "BrightFutures-Swift.h"
+export *
+}

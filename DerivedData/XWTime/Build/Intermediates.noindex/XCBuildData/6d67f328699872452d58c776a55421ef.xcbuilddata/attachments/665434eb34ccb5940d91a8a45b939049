@@ -1,0 +1,318 @@
+{
+  "" : {
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift-master.dia",
+    "emit-module-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift-master.swiftdeps"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Collection+OAuthSwift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Collection+OAuthSwift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Collection+OAuthSwift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Collection+OAuthSwift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Collection+OAuthSwift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Collection+OAuthSwift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Collection+OAuthSwift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Collection+OAuthSwift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Collection+OAuthSwift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Data+OAuthSwift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Data+OAuthSwift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Data+OAuthSwift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Data+OAuthSwift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Data+OAuthSwift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Data+OAuthSwift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Data+OAuthSwift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Data+OAuthSwift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Data+OAuthSwift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Dictionary+OAuthSwift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Dictionary+OAuthSwift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Dictionary+OAuthSwift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Dictionary+OAuthSwift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Dictionary+OAuthSwift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Dictionary+OAuthSwift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Dictionary+OAuthSwift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Dictionary+OAuthSwift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Dictionary+OAuthSwift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/ASWebAuthenticationURLHandler.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ASWebAuthenticationURLHandler.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ASWebAuthenticationURLHandler.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ASWebAuthenticationURLHandler.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ASWebAuthenticationURLHandler.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ASWebAuthenticationURLHandler.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ASWebAuthenticationURLHandler.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ASWebAuthenticationURLHandler.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ASWebAuthenticationURLHandler~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/ExtensionContextURLHandler.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ExtensionContextURLHandler.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ExtensionContextURLHandler.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ExtensionContextURLHandler.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ExtensionContextURLHandler.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ExtensionContextURLHandler.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ExtensionContextURLHandler.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ExtensionContextURLHandler.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/ExtensionContextURLHandler~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthSwiftOpenURLExternally.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftOpenURLExternally.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftOpenURLExternally.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftOpenURLExternally.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftOpenURLExternally.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftOpenURLExternally.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftOpenURLExternally.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftOpenURLExternally.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftOpenURLExternally~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthSwiftURLHandlerProxy.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerProxy.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerProxy.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerProxy.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerProxy.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerProxy.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerProxy.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerProxy.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerProxy~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/OAuthWebViewController.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthWebViewController.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthWebViewController.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthWebViewController.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthWebViewController.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthWebViewController.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthWebViewController.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthWebViewController.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthWebViewController~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/SafariURLHandler.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SafariURLHandler.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SafariURLHandler.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SafariURLHandler.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SafariURLHandler.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SafariURLHandler.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SafariURLHandler.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SafariURLHandler.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SafariURLHandler~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Handler/SFAuthenticationURLHandler.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SFAuthenticationURLHandler.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SFAuthenticationURLHandler.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SFAuthenticationURLHandler.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SFAuthenticationURLHandler.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SFAuthenticationURLHandler.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SFAuthenticationURLHandler.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SFAuthenticationURLHandler.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SFAuthenticationURLHandler~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/HMAC.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/HMAC.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/HMAC.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/HMAC.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/HMAC.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/HMAC.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/HMAC.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/HMAC.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/HMAC~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Int+OAuthSwift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Int+OAuthSwift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Int+OAuthSwift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Int+OAuthSwift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Int+OAuthSwift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Int+OAuthSwift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Int+OAuthSwift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Int+OAuthSwift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Int+OAuthSwift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/NotificationCenter+OAuthSwift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NotificationCenter+OAuthSwift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NotificationCenter+OAuthSwift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NotificationCenter+OAuthSwift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NotificationCenter+OAuthSwift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NotificationCenter+OAuthSwift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NotificationCenter+OAuthSwift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NotificationCenter+OAuthSwift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NotificationCenter+OAuthSwift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/NSError+OAuthSwift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NSError+OAuthSwift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NSError+OAuthSwift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NSError+OAuthSwift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NSError+OAuthSwift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NSError+OAuthSwift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NSError+OAuthSwift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NSError+OAuthSwift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/NSError+OAuthSwift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuth1Swift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth1Swift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth1Swift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth1Swift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth1Swift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth1Swift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth1Swift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth1Swift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth1Swift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuth2Swift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth2Swift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth2Swift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth2Swift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth2Swift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth2Swift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth2Swift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth2Swift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuth2Swift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthLogProtocol.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthLogProtocol.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthLogProtocol.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthLogProtocol.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthLogProtocol.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthLogProtocol.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthLogProtocol.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthLogProtocol.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthLogProtocol~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftClient.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftClient.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftClient.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftClient.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftClient.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftClient.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftClient.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftClient.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftClient~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftCredential.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftCredential.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftCredential.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftCredential.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftCredential.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftCredential.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftCredential.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftCredential.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftCredential~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftError.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftError.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftError.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftError.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftError.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftError.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftError.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftError.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftError~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftHTTPRequest.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftHTTPRequest.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftHTTPRequest.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftHTTPRequest.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftHTTPRequest.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftHTTPRequest.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftHTTPRequest.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftHTTPRequest.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftHTTPRequest~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftMultipartData.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftMultipartData.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftMultipartData.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftMultipartData.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftMultipartData.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftMultipartData.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftMultipartData.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftMultipartData.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftMultipartData~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftResponse.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftResponse.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftResponse.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftResponse.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftResponse.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftResponse.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftResponse.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftResponse.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftResponse~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/OAuthSwiftURLHandlerType.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerType.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerType.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerType.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerType.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerType.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerType.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerType.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/OAuthSwiftURLHandlerType~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/SHA1.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SHA1.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SHA1.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SHA1.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SHA1.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SHA1.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SHA1.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SHA1.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/SHA1~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/String+OAuthSwift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/String+OAuthSwift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/String+OAuthSwift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/String+OAuthSwift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/String+OAuthSwift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/String+OAuthSwift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/String+OAuthSwift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/String+OAuthSwift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/String+OAuthSwift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/UIApplication+OAuthSwift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/UIApplication+OAuthSwift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/UIApplication+OAuthSwift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/UIApplication+OAuthSwift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/UIApplication+OAuthSwift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/UIApplication+OAuthSwift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/UIApplication+OAuthSwift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/UIApplication+OAuthSwift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/UIApplication+OAuthSwift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/URL+OAuthSwift.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URL+OAuthSwift.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URL+OAuthSwift.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URL+OAuthSwift.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URL+OAuthSwift.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URL+OAuthSwift.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URL+OAuthSwift.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URL+OAuthSwift.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URL+OAuthSwift~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/URLConvertible.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URLConvertible.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URLConvertible.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URLConvertible.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URLConvertible.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URLConvertible.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URLConvertible.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URLConvertible.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/URLConvertible~partial.swiftmodule"
+  },
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/OAuthSwift/Sources/Utils.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Utils.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Utils.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Utils.dia",
+    "index-unit-output-path" : "/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Utils.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Utils.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Utils.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Utils.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/OAuthSwift.build/Debug-iphoneos/OAuthSwift.build/Objects-normal/arm64/Utils~partial.swiftmodule"
+  }
+}

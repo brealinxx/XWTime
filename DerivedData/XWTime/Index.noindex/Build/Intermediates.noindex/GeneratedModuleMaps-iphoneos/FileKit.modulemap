@@ -1,0 +1,4 @@
+module FileKit {
+header "FileKit-Swift.h"
+export *
+}

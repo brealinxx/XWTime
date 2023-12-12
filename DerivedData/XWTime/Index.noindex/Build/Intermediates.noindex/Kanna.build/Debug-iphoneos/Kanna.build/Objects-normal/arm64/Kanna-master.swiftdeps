@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "0f9baa68b57131efe8cde954d5ad20732a7378740ff03429ac880c3f6f4166ab"
+build_start_time: [1702361711, 20058000]
+build_end_time: [1702361711, 21720000]
+inputs:
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/CSS.swift": !dirty [1702361381, 434967894]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/Deprecated.swift": !dirty [1702361381, 435031603]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/Kanna.swift": !dirty [1702361381, 435234647]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/libxmlHTMLDocument.swift": !dirty [1702361381, 435314231]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/libxmlHTMLNode.swift": !dirty [1702361381, 435394190]
+  "/Users/brealin/DEV/XWTime/DerivedData/XWTime/SourcePackages/checkouts/Kanna/Sources/Kanna/libxmlParserOption.swift": !dirty [1702361381, 435463441]
