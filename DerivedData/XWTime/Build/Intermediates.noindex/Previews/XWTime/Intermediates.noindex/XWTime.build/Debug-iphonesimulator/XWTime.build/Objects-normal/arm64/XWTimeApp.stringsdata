@@ -1,5 +1,12 @@
 {
   "source": "/Users/brealin/DEV/XWTime/XWTime/XWTimeApp.swift",
-  "tables": {},
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World!"
+      }
+    ]
+  },
   "version": 1
 }

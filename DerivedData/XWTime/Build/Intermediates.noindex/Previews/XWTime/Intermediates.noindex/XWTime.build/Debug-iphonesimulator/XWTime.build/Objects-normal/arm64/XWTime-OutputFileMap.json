@@ -25,6 +25,16 @@
     "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/ContentView.swiftdeps",
     "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
   },
+  "/Users/brealin/DEV/XWTime/XWTime/XBot.swift" : {
+    "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/XBot.swiftconstvalues",
+    "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/XBot.d",
+    "diagnostics" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/XBot.dia",
+    "index-unit-output-path" : "/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/XBot.o",
+    "llvm-bc" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/XBot.bc",
+    "object" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/XBot.o",
+    "swift-dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/XBot.swiftdeps",
+    "swiftmodule" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/XBot~partial.swiftmodule"
+  },
   "/Users/brealin/DEV/XWTime/XWTime/XWTimeApp.swift" : {
     "const-values" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/XWTimeApp.swiftconstvalues",
     "dependencies" : "/Users/brealin/DEV/XWTime/DerivedData/XWTime/Build/Intermediates.noindex/Previews/XWTime/Intermediates.noindex/XWTime.build/Debug-iphonesimulator/XWTime.build/Objects-normal/arm64/XWTimeApp.d",

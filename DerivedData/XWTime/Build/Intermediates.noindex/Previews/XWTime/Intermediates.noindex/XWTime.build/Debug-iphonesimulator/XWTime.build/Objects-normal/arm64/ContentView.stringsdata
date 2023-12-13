@@ -4,7 +4,11 @@
     "Localizable": [
       {
         "comment": "",
-        "key": "Hello, world!"
+        "key": "What's happening?"
+      },
+      {
+        "comment": "",
+        "key": "发送"
       }
     ]
   },

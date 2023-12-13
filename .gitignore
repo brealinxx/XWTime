@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode
+.DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+*.xcshareddata
+*.xcworkspace/xcuserdata/
+xcuserdata/
+
+# Swift
+.build/
